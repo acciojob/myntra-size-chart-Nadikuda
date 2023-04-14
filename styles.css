@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+table, thead,tbody{
+		border:1px soild black
+		}
+	
